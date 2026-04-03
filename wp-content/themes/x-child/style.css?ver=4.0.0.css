@@ -1,0 +1,94 @@
+/*
+
+Theme Name: X &ndash; Child Theme
+Theme URI: http://theme.co/x/
+Author: Themeco
+Author URI: http://theme.co/
+Description: Make all of your modifications to X in this child theme.
+Version: 1.0.0
+Template: x
+
+*/
+
+a.land{text-align:center;display:block;margin:0 auto;margin-top:50px;text-decoration:none;color:#E0E0E0;-webkit-animation:fadein 15s;-moz-animation:fadein 15s;-ms-animation:fadein 15s;-o-animation:fadein 15s;animation:fadein 15s;}
+@keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-moz-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-webkit-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-ms-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-o-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+.h-landmark, .entry-title.h-landmark{display:none;}
+.x-header-landmark{border:0px;}
+.x-colophon.top{background-color:#000;}
+.x-colophon.bottom{background-color:#000;}
+.x-breadcrumbs{color:#a1a1a1;}
+.site{background-color:#000;}
+p{font-family:'Inconsolata';}
+.x-accordion-heading .x-accordion-toggle.collapsed{background-color:#000;}
+.x-accordion-heading .x-accordion-toggle{background-color:#000;}
+.x-accordion-heading .x-accordion-toggle:hover{background-color:#000;}
+.x-nav-tabs{background-color:#000;}
+div#tab-1{background-color:#000;}
+div#tab-2{background-color:#000;}
+div#tab-3{background-color:#000;}
+div#tab-4{background-color:#000;}
+a#tab-1{background-color:#000;}
+.x-nav>li>a{background-color:#000;}
+.x-nav-tabs>.active>a, .x-nav-tabs>.active>a:hover{background-color:#3B3B3B;}
+.x-nav>li>a:hover{background-color:#3B3B3B;}
+.desktop .sub-menu li > a{border:1px solid #fff;padding-left:0.5em;}
+.desktop .sub-menu{min-width:165px;padding:0.5em;margin-right:-3px;}
+h4, h5, h6, .h4, .h5, .h6{margin-top:0px;}
+.x-navbar-fixed-right .x-brand{text-align:right;padding-right:50px;word-spacing:-0.2em;}
+.x-navbar .desktop .x-nav > li > a{text-align:right;padding-right:55px;}
+.awards ul{list-style-type:none;}
+.awards li{font-family:'Inconsolata';}
+.masthead-inline .x-navbar.x-navbar-fixed-right .desktop .sub-menu{right:130px;top:-1px;}
+.sub-menu a{font-family:'Inconsolata';}
+.awards h5{margin-top:-48px;}
+.flex-direction-nav a [class^="x-icon-"], .flex-direction-nav a [class*=" x-icon-"]{color:#000;}
+.flex-direction-nav a, .flex-control-nav a:hover, .flex-control-nav a.flex-active{background-color:#fff;}
+.gm-style .gm-style-iw{color:#636363;}
+@media (min-width:980px){.x-navbar-fixed-right .x-brand{-webkit-animation:fadein 15s;-moz-animation:fadein 15s;-ms-animation:fadein 15s;-o-animation:fadein 15s;animation:fadein 15s;}
+@keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-moz-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-webkit-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-ms-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-o-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+}
+@media (min-width:980px){.x-nav{-webkit-animation:fadein 15s;-moz-animation:fadein 15s;-ms-animation:fadein 15s;-o-animation:fadein 15s;animation:fadein 15s;}
+@keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-moz-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-webkit-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-ms-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+@-o-keyframes fadein{from{opacity:0;}
+to{opacity:1;}
+}
+}
